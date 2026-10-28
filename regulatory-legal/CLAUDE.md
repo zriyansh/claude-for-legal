@@ -46,6 +46,7 @@ Rules for every skill, command, and agent in this plugin:
 |---|---|---|
 | Regulatory feeds (Thomson Reuters Regulatory Intelligence) | [✓ / ✗] | Free Federal Register API + user-pasted alerts; no enrichment layer |
 | US primary sources (Vaquill) | [✓ / ✗] | Federal Register API + manual eCFR lookups; no semantic search across USC and CFR |
+| Regulatory feeds (paid subscription) | [✓ / ✗] | Free Federal Register API + user-pasted alerts; no enrichment layer |
 | Document storage (Google Drive, SharePoint, Box) | [✓ / ✗] | Policy library indexed from local paths |
 | Slack | [✓ / ✗] | Digests emitted as files only; no in-channel alerts |
 
@@ -92,7 +93,7 @@ Rules for every skill, command, and agent in this plugin:
 
 ## Feed configuration
 
-**TR Regulatory Intelligence:** [PLACEHOLDER — subscriptions, alerts]
+**Paid regulatory feed:** [PLACEHOLDER — provider, subscriptions, alerts]
 **CourtListener:** [PLACEHOLDER]
 **Direct regulator feeds:** [PLACEHOLDER — RSS, email lists]
 **Check cadence:** [PLACEHOLDER — daily / weekly]
